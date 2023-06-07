@@ -1,0 +1,86 @@
+[
+  {
+    "subgraphName": "connext/nxtp-amarok-runtime-staging-goerli",
+    "network": "goerli",
+    "source": [
+      {
+        "name": "Connext",
+        "address": "0xC0a8BC9E98BD1bEeEC0a1b127BDb3e9a5fb7EC6C",
+        "startBlock": 8162909
+      },
+      {
+        "name": "SpokeConnector",
+        "address": "0x1A1FcD6FE9372E6e9391FEDBe249A9a7E32D8Aaf",
+        "startBlock": 8170989
+      },
+      {
+        "name": "MerkleTreeManager",
+        "address": "0x15D889ba5ec6548AE158a85953D907c6D78DE834",
+        "startBlock": 8162903
+      }
+    ]
+  },
+  {
+    "subgraphName": "connext/runtime-v0-opt-goerli-staging",
+    "network": "optimism-goerli",
+    "source": [
+      {
+        "name": "Connext",
+        "address": "0xEE725087E0a39010E7341642ec4DeE76b61acA21",
+        "startBlock": 3565510
+      },
+      {
+        "name": "SpokeConnector",
+        "address": "0xDB8310cAa57B052ab270A573B512dc5644558f0A",
+        "startBlock": 7011771
+      },
+      {
+        "name": "MerkleTreeManager",
+        "address": "0xD37F320417c46C7DB7fa7Ec8705F9AeF7baC5F43",
+        "startBlock": 3565505
+      }
+    ]
+  },
+  {
+    "subgraphName": "connext/nxtp-amarok-runtime-staging-mumbai",
+    "network": "mumbai",
+    "source": [
+      {
+        "name": "Connext",
+        "address": "0x88F527c8Cb7282e93796c1559949570Da6cd671D",
+        "startBlock": 29883621
+      },
+      {
+        "name": "SpokeConnector",
+        "address": "0xF0BDAB8B69F14c1d91B834075235de7FFa8A1918",
+        "startBlock": 29939453
+      },
+      {
+        "name": "MerkleTreeManager",
+        "address": "0x1572B96bFB7A49FB27206bCe58BB407AC3d31162",
+        "startBlock": 29883606
+      }
+    ]
+  },
+  {
+    "subgraphName": "connext/runtime-staging-arb-goerli",
+    "network": "arbitrum-goerli",
+    "source": [
+      {
+        "name": "Connext",
+        "address": "0xfE802eB0B5Cd853Fd0fa98587bae475f79F58Ec2",
+        "startBlock": 3161618
+      },
+      {
+        "name": "SpokeConnector",
+        "address": "0x644bbF6754527603DB30509AAB74bbeC4FD6EFaD",
+        "startBlock": 3247166
+      },
+      {
+        "name": "MerkleTreeManager",
+        "address": "0xF3FBEd97D01919fB7a403Bd3Db60e106Df7cCbF7",
+        "startBlock": 3161606
+      }
+    ]
+  }
+]

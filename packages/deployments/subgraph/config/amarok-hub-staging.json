@@ -1,0 +1,33 @@
+[
+  {
+    "subgraphName": "connext/nxtp-amarok-hub-staging-goerli",
+    "network": "goerli",
+    "source": [
+      {
+        "name": "RootManager",
+        "address": "0x0310DB8043520BF31fBEf5350D1E3d451C6de68a",
+        "startBlock": 8170987
+      },
+      {
+        "name": "MerkleTreeManager",
+        "address": "0xc18C57043055a4619f62937c803C10373e311182",
+        "startBlock": 8162897
+      },
+      {
+        "name": "PolygonHubConnector",
+        "address": "0x73C7206B0b8aeeE14D73238139c4d25B3D044cAf",
+        "startBlock": 8170992
+      },
+      {
+        "name": "OptimismHubConnector",
+        "address": "0x1B28604731bfc5b589e6f5A8768cca2b1de20860",
+        "startBlock": 8699034
+      },
+      {
+        "name": "ArbitrumHubConnector",
+        "address": "0x7Cc2798d6f7C00E19F6DA0eFD9e4a0c5497FD928",
+        "startBlock": 8170993
+      }
+    ]
+  }
+]
